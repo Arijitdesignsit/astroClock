@@ -1,0 +1,17 @@
+.orbit{
+    fill: rgba(0,0,0,0);
+    stroke: palegoldenrod;
+}
+
+.planet{
+    fill: #193654;
+    stroke: palegoldenrod;
+}
+
+.label{
+    font-size: small;
+    fill: palegoldenrod;
+}
+body{
+    background-color: #193654;
+}
